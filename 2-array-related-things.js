@@ -35,3 +35,15 @@ console.log(remaining);
 // find 
 const hasWatch = products.find(pd => pd.name === 'Watch');
 console.log(hasWatch);
+
+// reduce
+
+// includes
+
+// push
+
+//pop
+
+// length
+
+//indexOf
